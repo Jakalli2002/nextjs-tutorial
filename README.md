@@ -1,2 +1,2 @@
 # nextjs-tutorial
-tuttorial for learning next.js / connecting to a database
+tutorial for learning next.js / connecting to a database
